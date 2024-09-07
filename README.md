@@ -1,5 +1,5 @@
 <a name="readme-top"></a>  
-<img width="100%" src="https://github.com/megamen-x/METIS/blob/main/taiga/assets/images/github/main-frame.png" alt="megamen banner">
+<img width="100%" src="https://github.com/megamen-x/METIS/blob/main/assets/pref_github.png" alt="megamen banner">
 <div align="center">
   <p align="center">
   </p>
@@ -47,15 +47,17 @@
 
  - **Общая схема решения:**
 
-<img width="100%" src="https://github.com/megamen-x/METIS/blob/main/taiga/assets/images/github/sheme.png" alt="megamen sheme">
+<img width="100%" src="https://github.com/megamen-x/METIS/blob/main/assets/sheme-github.png" alt="megamen sheme">
 
  - **Использованные модели:**
     - **```ASR```**:
-      - ;
+      - salute-developers/GigaAM;
+    - **```Spell check```**:
+      - kontur-ai/sbert_punc_case_ru;
     - **```VAD```**:
-      - ;
+      - pyannote/voice-activity-detection;
     - **```LMM```**:
-      - .
+      - google/gemma-2-27b-it.
 
 
 **Серверная часть**
@@ -79,7 +81,7 @@
   
     - Клонирование репозитория:
     ```
-    git clone https://github.com/megamen-x/ARTEMIS.git
+    git clone https://github.com/megamen-x/METIS.git
     ```
     - Создание и активация виртуального окружения (Протестировано на **Python 3.10.6**):
     ```
