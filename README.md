@@ -110,9 +110,9 @@
 | :----------- | :---------- |
 | Платформа, ОС  | Windows (> 8.1), Linux (core > 5.15)    |
 | Python | 3.10 or 3.11 (рекомендовано) |
-| RAM  | 4 GB или более |
-| Свободное место на диске | > 2 GB |
-| GPU | NVIDIA RTX Ampere or Ada Generation GPU > 16 GB VRAM |
+| RAM  | 30 GB или более |
+| Свободное место на диске | > 20 GB |
+| GPU | NVIDIA RTX Ampere or Ada Generation GPU > 24 GB VRAM |
 
 <p align="right">(<a href="#readme-top"><i>Вернуться наверх</i></a>)</p>
 
